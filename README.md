@@ -5,10 +5,9 @@ Tools Used : Microsoft Power Bi
 Key Insights -
  1) Quick Insights
    A quick insight for 2010 to 2017 Amazon Sales.
-   * Total Sales - 513K
-   * Total Revenue - 137M
-   * Total Profit - 44M
-   * Total Cost - 93M
+   * Total Sales - 137.35M
+   * Total Profit - 44.17M
+   * Avg. Profit Margin - 93M
 2) Cosmetics product gives the highest profit ( 14.56 M ) and ( 31.03 % ) and also have highest revenue  and cost ( 19.12 % ).
 3) Overall, In 2014 have highest sales ( 14.26 % )
 4) Feb have highest and Aug have lowerest total revenue and total cost by monthly.
