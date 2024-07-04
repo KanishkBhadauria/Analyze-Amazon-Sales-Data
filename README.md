@@ -8,7 +8,7 @@ Key Insights -
    * Total Sales - 137.35M
    * Total Profit - 44.17M
    * Avg. Profit Margin - 93M
-2) Cosmetics product gives the highest profit ( 14.56 M ) and ( 31.03 % ) and also have highest revenue  and cost ( 19.12 % ).
+2) Cosmetics product gives the highest profit ( 14.56 M ) and ( 36.6 % ) and also have highest revenue  and cost ( 19.12 % ).
 3) Overall, In 2014 have highest sales ( 14.26 % )
 4) Feb have highest and Aug have lowerest total revenue and total cost by monthly.
 5) In my lastly insights - Max Profit with min cost by yearly is 2010 and 2016 respectively and samely as by montly  Jul(max profit) and June(min cost).
